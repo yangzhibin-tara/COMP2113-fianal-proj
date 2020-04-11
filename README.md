@@ -12,7 +12,7 @@
 - Proper indentation and naming styles
 - In-code documentation
 ## Team members: 
-Chen Hui Jun (3035533367)
+Chen Hui Jun (3035533367)；
 Yang Zhi Bin 
 ## Basic game rules: 
 the player explores the rooms and every time he enters the room, he may trigger some events or discover some items that will help to uncover the truth of the story.
@@ -21,3 +21,4 @@ the player explores the rooms and every time he enters the room, he may trigger 
 - Players can pick up items and store them in their inventory
 - Some events are generated randomly.
 - Multiple files are used, including the room, item inventory, player's action....
+- we will use array and vector to store game status and update the status when triggering the event.
